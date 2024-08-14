@@ -1,0 +1,6 @@
+@Lista1DesenvolvimentoWeb_HostAddress = http://localhost:5286
+
+GET {{Lista1DesenvolvimentoWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
